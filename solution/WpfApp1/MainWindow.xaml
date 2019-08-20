@@ -17,6 +17,8 @@
                 </TransformGroup>
             </CheckBox.RenderTransform>
         </CheckBox>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+        <GridSplitter HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="5"/>
 
     </Grid>
 </Window>
